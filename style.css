@@ -1,0 +1,21 @@
+header{
+  height: 100px;
+  background: blue;
+  text-align: center;
+  color: white;
+  font-family: cursive;
+}
+
+body{
+  background: lavender;
+}
+
+img{
+  height: 200px;
+  border: 10px solid black;
+  float: right;
+}
+
+h3{
+  color:blue;
+}
